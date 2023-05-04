@@ -7,7 +7,7 @@ const port = process.env.PORT || 5000
 app.use(cors())
 
 app.get("/",(req,res)=>{
-  res.send('Chef Recipe Hunter Server is Running')
+  res.send('Chef Recipe Hunter Server is Running..............')
 })
 
 app.listen(port, ()=>{
