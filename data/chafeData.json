@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://example.com/chef1.jpg",
+    "chef_picture": "https://i.pinimg.com/236x/12/ac/60/12ac606896dfc98f4806b7acababed67.jpg",
     "chef_name": "John Smith",
     "years_of_experience": 10,
     "num_of_recipes": 50,
@@ -14,7 +14,7 @@
         "ingredients": ["2 lbs beef chuck, cut into 2-inch pieces", "1 bottle red wine", "1 onion, chopped", "4 garlic cloves, minced", "4 carrots, peeled and sliced"],
         "cooking_method": "1. Preheat oven to 350°F.\n2. In a Dutch oven, brown the beef in olive oil over high heat. Remove and set aside.\n3. Add onion and garlic to the pot and cook until softened. Add wine and bring to a boil.\n4. Return the beef to the pot and add enough beef broth to cover. Add carrots and bring to a simmer.\n5. Cover and bake in the oven for 3 hours.\n6. Serve hot.",
         "rating": 4.5,
-        "image": "https://example.com/beef-bourguignon.jpg"
+        "image": "https://i.pinimg.com/236x/27/e2/ff/27e2ff992fd316b60047b127e4910b14.jpg"
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "ingredients": ["1 whole chicken, cut into pieces", "1 bottle red wine", "3 garlic cloves, minced", "8 oz mushrooms, sliced", "2 tbsp butter"],
         "cooking_method": "1. Preheat oven to 350°F.\n2. In a Dutch oven, brown the chicken in butter over high heat. Remove and set aside.\n3. Add garlic and mushrooms to the pot and cook until softened. Add wine and bring to a boil.\n4. Return the chicken to the pot and add enough chicken broth to cover. Bring to a simmer.\n5. Cover and bake in the oven for 1 hour.\n6. Serve hot.",
         "rating": 4.0,
-        "image": "https://example.com/coq-au-vin.jpg"
+        "image": "https://i.pinimg.com/236x/39/5e/97/395e97229a501c3ecaa5ece87b9e5710.jpg"
       },
       {
         "id": 3,
@@ -30,13 +30,13 @@
         "ingredients": ["1 eggplant, diced", "1 zucchini, diced", "1 onion, diced", "2 garlic cloves, minced", "1 red bell pepper, diced"],
         "cooking_method": "1. Heat olive oil in a large skillet over medium-high heat.\n2. Add onion and garlic and cook until softened.\n3. Add eggplant and zucchini and cook until softened.\n4. Add red bell pepper and cook for another 5 minutes.\n5. Serve hot or cold.",
         "rating": 3.5,
-        "image": "https://example.com/ratatouille.jpg"
+        "image": "https://i.pinimg.com/236x/19/ab/07/19ab07c9148365199d5567b53bc3fb1e.jpg"
       }
     ]
   },
   {
     "id": 2,
-    "chef_picture": "https://example.com/chef13.jpg",
+    "chef_picture": "https://i.pinimg.com/236x/73/37/f3/7337f3d2b3fe1ec3a1d1ca458d012522.jpg",
     "chef_name": "Mia Ramirez",
     "years_of_experience": 12,
     "num_of_recipes": 60,
@@ -49,7 +49,7 @@
         "ingredients": ["4 poblano peppers", "1/2 lb ground beef", "1/2 onion, diced", "1 garlic clove, minced", "1 tomato, diced"],
         "cooking_method": "1. Roast the peppers on a gas stove or under the broiler until charred.\n2. Remove the skin and seeds from the peppers.\n3. In a skillet, cook ground beef until browned.\n4. Add onion and garlic and cook until softened.\n5. Add tomato and cook for 5 minutes.\n6. Stuff the peppers with the beef mixture.\n7. Place the stuffed peppers in a baking dish and bake at 350°F for 20-25 minutes.\n8. Serve hot.",
         "rating": 4.8,
-        "image": "https://example.com/chiles-rellenos.jpg"
+        "image": "https://i.pinimg.com/236x/b6/2f/c8/b62fc86c8d0b54fc3abb92691f0917c0.jpg"
       },
       {
         "id": 2,
@@ -57,7 +57,7 @@
         "ingredients": ["1 cup all-purpose flour", "1 tsp baking powder", "1/2 cup unsalted butter, softened", "1 cup sugar", "4 eggs"],
         "cooking_method": "1. Preheat oven to 350°F.\n2. Grease a 9x13 inch baking dish.\n3. In a bowl, whisk together flour and baking powder.\n4. In a separate bowl, beat butter and sugar until light and fluffy.\n5. Beat in eggs one at a time.\n6. Stir in flour mixture until just combined.\n7. Pour batter into prepared baking dish.\n8. Bake for 25-30 minutes or until golden brown.\n9. In a separate bowl, whisk together condensed milk, evaporated milk, and heavy cream.\n10. Pour milk mixture over the warm cake.\n11. Let the cake cool completely in the fridge.\n12. Serve chilled.",
         "rating": 4.5,
-        "image": "https://example.com/tres-leches-cake.jpg"
+        "image": "https://i.pinimg.com/236x/ae/e7/0f/aee70f1896a831289bf613ea85f5ec47.jpg"
       },
       {
         "id": 3,
@@ -65,14 +65,14 @@
         "ingredients": ["8 corn tortillas", "2 cups shredded cooked chicken", "1/2 onion, chopped", "1/2 red bell pepper, chopped", "1 cup enchilada sauce"],
         "cooking_method": "1. Preheat oven to 350°F.\n2. In a skillet, sauté onion and bell pepper until softened.\n3. Add shredded chicken and 1/2 cup enchilada sauce and cook until heated through.\n4. In a separate skillet, heat tortillas until softened.\n5. Spread some enchilada sauce on each tortilla.\n6. Spoon chicken mixture onto each tortilla.\n7. Roll up tortillas and place seam-side down in a baking dish.\n8. Pour remaining ench ilada sauce over the rolled tortillas.\n9. Bake for 20-25 minutes.\n10. Serve hot.",
         "rating": 4.3,
-        "image": "https://example.com/chicken-enchiladas.jpg"
+        "image": "https://i.pinimg.com/236x/7f/c4/79/7fc47908deaadf1a098ad3e7e7b3a6ad.jpg"
         
       }
     ]
   },
   {
     "id": 3,
-    "chef_picture": "https://example.com/chef14.jpg",
+    "chef_picture": "https://i.pinimg.com/236x/30/9e/73/309e739b6a8ef5deda0d986fd36c1cd4.jpg",
     "chef_name": "Ravi Patel",
     "years_of_experience": 15,
     "num_of_recipes": 75,
@@ -85,7 +85,7 @@
     "ingredients": ["1 lb boneless, skinless chicken breast", "1 onion, chopped", "1 garlic clove, minced", "1 inch ginger, minced", "1 cup tomato puree"],
     "cooking_method": "1. Cut chicken into bite-sized pieces.\n2. In a bowl, combine yogurt, salt, cumin, coriander, turmeric, and cayenne pepper.\n3. Add chicken to the bowl and mix well.\n4. Let the chicken marinate for at least 30 minutes.\n5. In a skillet, heat oil and add onion, garlic, and ginger.\n6. Cook until softened.\n7. Add tomato puree and cook for 5 minutes.\n8. Add chicken and cook until done.\n9. Serve hot with rice.",
     "rating": 4.9,
-    "image": "https://example.com/chicken-tikka-masala.jpg"
+    "image": "https://i.pinimg.com/236x/8a/11/65/8a116580154a91e7d063467d21ffb6a4.jpg"
     },
     {
     "id": 2,
@@ -93,7 +93,7 @@
     "ingredients": ["1 lb paneer, cubed", "1 lb spinach", "1 onion, chopped", "1 garlic clove, minced", "1 inch ginger, minced"],
     "cooking_method": "1. Wash spinach and blanch in boiling water for 1 minute.\n2. Drain and blend spinach into a smooth paste.\n3. In a skillet, heat oil and add onion, garlic, and ginger.\n4. Cook until softened.\n5. Add spinach paste and cook for 5 minutes.\n6. Add paneer cubes and cook until heated through.\n7. Serve hot with naan or rice.",
     "rating": 4.6,
-    "image": "https://example.com/palak-paneer.jpg"
+    "image": "https://i.pinimg.com/236x/f1/5d/49/f15d493d2cde868aa1ee77fd12a72ce7.jpg"
     },
     {
     "id": 3,
@@ -101,13 +101,13 @@
     "ingredients": ["1 lb cauliflower, cut into florets", "2 potatoes, peeled and cubed", "1 onion, chopped", "1 garlic clove, minced", "1 inch ginger, minced"],
     "cooking_method": "1. In a skillet, heat oil and add onion, garlic, and ginger.\n2. Cook until softened.\n3. Add cauliflower and potatoes and cook for 5 minutes.\n4. Add salt, cumin, coriander, turmeric, and cayenne pepper.\n5. Cover and cook for 15 minutes or until vegetables are tender.\n6. Serve hot with rice.",
     "rating": 4.2,
-    "image": "https://example.com/aloo-gobi.jpg"
+    "image": "https://i.pinimg.com/236x/a3/ef/6c/a3ef6ce27dcdd2b745e1a3d44541ebc6.jpg"
     }
   ]
 },
 {
   "id": 4,
-  "chef_picture": "https://example.com/chef15.jpg",
+  "chef_picture": "https://i.pinimg.com/236x/a0/6f/76/a06f76988b6c4f13b442f2e79ddfeee5.jpg",
   "chef_name": "Maria Rodriguez",
   "years_of_experience": 12,
   "num_of_recipes": 60,
@@ -120,7 +120,7 @@
       "ingredients": ["1 lb pork shoulder, sliced thin", "1 onion, chopped", "1 pineapple, sliced", "1 tbsp achiote paste", "1 tbsp vinegar"],
       "cooking_method": "1. In a skillet, heat oil and add onion.\n2. Cook until softened.\n3. Add pork and cook until browned.\n4. Add achiote paste and vinegar and cook for 5 minutes.\n5. In another skillet, heat oil and add pineapple.\n6. Cook until caramelized.\n7. Serve pork on a tortilla with pineapple and cilantro.",
       "rating": 4.7,
-      "image": "https://example.com/tacos-al-pastor.jpg"
+      "image": "https://i.pinimg.com/474x/eb/b4/04/ebb404f90ac2e0cbbcd9feef53e78b94.jpg"
     },
     {
       "id": 2,
@@ -128,7 +128,7 @@
       "ingredients": ["1 lb chicken breast, shredded", "1 onion, chopped", "1 garlic clove, minced", "1 cup chicken broth", "1 lb tomatillos, husked"],
       "cooking_method": "1. In a skillet, heat oil and add onion and garlic.\n2. Cook until softened.\n3. Add chicken and cook until heated through.\n4. In a blender, blend tomatillos, onion, garlic, and chicken broth.\n5. In a skillet, heat oil and add sauce.\n6. Cook for 5 minutes.\n7. Dip tortillas in sauce and fill with chicken.\n8. Roll tortillas and place in a baking dish.\n9. Top with remaining sauce and bake for 20 minutes.\n10. Serve hot with sour cream and cilantro.",
       "rating": 4.5,
-      "image": "https://example.com/enchiladas-verdes.jpg"
+      "image": "https://i.pinimg.com/236x/77/52/2f/77522f31f062205bbecb38bdc3b2f5ae.jpg"
     },
     {
       "id": 3,
@@ -136,13 +136,13 @@
       "ingredients": ["6 poblano peppers", "1 lb ground beef", "1 onion, chopped", "1 garlic clove, minced", "1 cup tomato puree"],
       "cooking_method": "1. Roast peppers over an open flame until charred.\n2. Let peppers cool and remove skin.\n3. Make a slit in each pepper and remove seeds.\n4. In a skillet, heat oil and add onion and garlic.\n5. Cook until softened.\n6. Add ground beef and cook until browned.\n7. Add tomato puree and cook for 5 minutes.\n8. Stuff each pepper with beef mixture.\n9. Place peppers in a baking dish and bake for 20 minutes.\n10. Serve hot with rice.",
       "rating": 4.4,
-      "image": "https://example.com/chiles-rellenos.jpg"
+      "image": "https://i.pinimg.com/236x/07/19/fe/0719fe4b16d7d39b81810a069138e87b.jpg"
     }
   ]
 },
 {
   "id": 5,
-  "chef_picture": "https://example.com/chef2.jpg",
+  "chef_picture": "https://i.pinimg.com/236x/69/24/63/6924639c7c103240f4b1fc86fb9c00df.jpg",
   "chef_name": "Emily Johnson",
   "years_of_experience": 15,
   "num_of_recipes": 50,
@@ -155,7 +155,7 @@
     "ingredients": ["8 oz semisweet chocolate chips", "4 egg yolks", "1/4 cup sugar", "1/2 cup heavy cream", "4 egg whites"],
     "cooking_method": "1. Melt chocolate chips in a double boiler.\n2. In a separate bowl, beat egg yolks with sugar until light and fluffy.\n3. Add melted chocolate to egg yolk mixture and stir until well combined.\n4. In a separate bowl, whip heavy cream until soft peaks form.\n5. In another bowl, beat egg whites until stiff peaks form.\n6. Gently fold whipped cream into chocolate mixture.\n7. Gently fold egg whites into chocolate mixture.\n8. Pour mixture into individual serving dishes.\n9. Chill for at least 2 hours.\n10. Serve cold.",
     "rating": 4.9,
-    "image": "https://example.com/chocolate-mousse.jpg"
+    "image": "https://i.pinimg.com/236x/19/9d/7d/199d7db6bb821d96fd1335acf251ba56.jpg"
     },
     {
     "id": 2,
@@ -163,7 +163,7 @@
     "ingredients": ["1 pie crust", "4 cups blueberries", "1/2 cup sugar", "3 tbsp cornstarch", "1/2 tsp cinnamon"],
     "cooking_method": "1. Preheat oven to 375 degrees F.\n2. Roll out pie crust and place in a pie dish.\n3. In a large bowl, mix together blueberries, sugar, cornstarch, and cinnamon.\n4. Pour blueberry mixture into pie crust.\n5. Bake for 45-50 minutes, or until crust is golden brown.\n6. Let cool before serving.",
     "rating": 4.7,
-    "image": "https://example.com/blueberry-pie.jpg"
+    "image": "https://i.pinimg.com/236x/b5/93/2f/b5932fe0205affac640a28a249a6e239.jpg"
     },
     {
     "id": 3,
@@ -171,13 +171,13 @@
     "ingredients": ["1 cup all-purpose flour", "2 tbsp sugar", "1 tsp baking powder", "1/4 tsp baking soda", "1/4 tsp salt"],
     "cooking_method": "1. Preheat oven to 425 degrees F.\n2. In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt.\n3. Add butter and cut into the flour mixture until it resembles coarse crumbs.\n4. Stir in buttermilk until dough forms.\n5. Drop dough by spoonfuls onto a baking sheet.\n6. Bake for 12-15 minutes, or until golden brown.\n7. Let cool before assembling shortcakes.\n8. To assemble, slice shortcakes in half and fill with sliced strawberries and whipped cream.",
     "rating": 4.6,
-    "image": "https://example.com/strawberry-shortcake.jpg"
+    "image": "https://i.pinimg.com/236x/48/0a/1f/480a1ffe29ffdd3b18201c8b95e45ae9.jpg"
     }
     ]
     },
     {
       "id": 6,
-      "chef_picture": "https://example.com/chef3.jpg",
+      "chef_picture": "https://i.pinimg.com/236x/6f/f0/55/6ff0557b423947563d39f570e36e6aab.jpg",
       "chef_name": "Antonio Ramirez",
       "years_of_experience": 25,
       "num_of_recipes": 100,
@@ -190,7 +190,7 @@
       "ingredients": ["1 lb white fish, diced", "1/2 red onion, diced", "1 jalapeno pepper", "diced", "1/2 cup lime juice", "1/4 cup orange juice", "1/4 cup cilantro, chopped"],
       "cooking_method": "1. In a large bowl, combine fish, red onion, and jalapeno pepper.\n2. Add lime juice and orange juice and mix well.\n3. Cover and refrigerate for at least 30 minutes, or until fish is cooked through.\n4. Stir in cilantro just before serving.\n5. Serve with tortilla chips.",
       "rating": 4.8,
-      "image": "https://example.com/ceviche.jpg"
+      "image": "https://i.pinimg.com/236x/e0/6b/7f/e06b7fe544e555c33c5a236de9f39604.jpg"
       },
       {
       "id": 2,
@@ -198,7 +198,7 @@
       "ingredients": ["1 lb ground beef", "1 onion, chopped", "1 red bell pepper, chopped", "2 cloves garlic, minced", "1 tsp cumin", "1/4 tsp paprika", "1/4 tsp cayenne pepper", "1/4 cup beef broth", "1/4 cup raisins", "1/4 cup sliced green olives", "1/4 cup chopped fresh cilantro", "1 package pre-made empanada dough"],
       "cooking_method": "1. Preheat oven to 400 degrees F.\n2. In a large skillet, brown ground beef over medium heat.\n3. Add onion, red bell pepper, garlic, cumin, paprika, and cayenne pepper and cook until vegetables are tender.\n4. Stir in beef broth, raisins, green olives, and cilantro.\n5. Roll out empanada dough and cut into circles.\n6. Spoon beef mixture onto one side of each circle.\n7. Fold dough over and press edges together to seal.\n8. Bake empanadas for 20-25 minutes, or until golden brown.",
       "rating": 4.7,
-      "image": "https://example.com/empanadas.jpg"
+      "image": "https://i.pinimg.com/236x/e1/95/14/e195149f00a5cf3c90151becb814de80.jpg"
       },
       {
       "id": 3,
@@ -206,7 +206,7 @@
       "ingredients": ["1 lb boneless, skinless chicken breasts", "1 onion, chopped", "2 cloves garlic, minced", "1 red bell pepper, chopped", "1 green bell pepper, chopped", "1 cup long-grain rice", "1 can diced tomatoes", "1 tsp cumin", "1/4 tsp paprika", "1/4 tsp cayenne pepper", "1 cup chicken broth"],
       "cooking_method": "1. Preheat oven to 375 degrees F.\n2. In a large skillet, brown chicken breasts over medium heat.\n3. Add onion, garlic, red bell pepper, and green bell pepper and cook until vegetables are tender.\n4. Add rice, diced tomatoes, cumin, paprika, and cayenne pepper and stir well.\n5. Pour chicken broth into skillet and bring to a boil.\n6. Transfer mixture to a baking dish and cover tightly with foil.\n7. Bake for 25-30 minutes, or until rice is cooked through and chicken is tender.\n8. Serve hot.",
       "rating": 4.9,
-      "image": "https://example.com/arroz-con-pollo.jpg"
+      "image": "https://i.pinimg.com/236x/35/4c/cf/354ccf7ebb94e7c0912d68034a9d5c69.jpg"
       }
       ]
       }
